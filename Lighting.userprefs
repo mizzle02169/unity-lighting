@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TouchManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TouchManager.cs" Line="146" Column="53" />
+      <File FileName="Assets\Scripts\MainCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BaseballGloveCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RingToss.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hoop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TennisRacket.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\TennisBatPrefab.cs" Line="24" Column="53" />
+      <File FileName="Assets\Scripts\BaseballGlovePrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TennisBall.cs" Line="26" Column="48" />
+      <File FileName="Assets\Scripts\TennisBatCollider.cs" Line="19" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
